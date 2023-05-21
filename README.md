@@ -20,9 +20,6 @@
 [![Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
 
 
-
-
-
 ##  ● My work tools 🛠
 [![Mac OS Badge](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)](#) 
 [![Win Badge](https://img.shields.io/badge/Windows-PC_gaming_masterace-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#) 
